@@ -33,3 +33,5 @@ plt.legend()
 
 # Save the histogram as a PNG file
 plt.savefig('hist2.png')
+
+#Saving the histogram and creating a new histogram was a part of what I got using ChatGPT
